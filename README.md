@@ -1,0 +1,7 @@
+# Pluralsight Building ASP.NET Core Hosted Services and .NET Core Worker Services
+
+https://app.pluralsight.com/library/courses/building-aspnet-core-hosted-services-net-core-worker-services/table-of-contents
+
+You should take this course to learn about using hosted services in ASP.NET Core application to perform background workloads. You will also learn how to build .NET Core microservices using the worker service template.
+
+Building .NET Core microservices has many advantages. In this course, Building ASP.NET Core Hosted Services and .NET Core Worker Services, you will learn when and how to apply hosted services in your applications. First, you will learn about adding hosted services to ASP.NET Core applications to perform background workloads outside of the request lifecycle. Next, you will learn how to apply the worker service template when building microservices using .NET Core. You will also learn how to build .NET Core microservices, using the worker service template introduced in .NET Core 3.0. When you are finished with this course, you will have a strong knowledge of building ASP.NET Core hosted services and using the .NET Core worker service template, which will help you as you build responsive web applications and .NET Core microservices. Software required: .NET Core SDK 3.1
